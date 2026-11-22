@@ -6,17 +6,15 @@
 
 One-image newspaper front page summarizing the world's news of Saturday 21 November 2026.
 
-**38 stories across 7 regions**:
+## Coverage
+- **38 stories across 7 regions**
+- **COP31 Overtime**: Climate summit fossil fuel negotiations in Antalya
+- **Saudi Missiles Intercepted**: Defense systems intercept missiles over Riyadh
+- **Peru Quake 6.7**: Earthquake impact and response across central Andes
+- Verified deterministic output (<1 MiB, 1024x1024)
 
-- **COP31 Overtime** — Fossil fuel deadlock spills climate talks into Saturday, Antalya
-- **Saudi MISSELES** — Coalition intercepts 3 Houthi missiles over Riyadh  
-- **Peru Quake 6.7** — Deep earthquake shakes central Andes
-- Europe, Americas, Asia-Pacific, Middle East, Africa, Melanesia
 
-Built by an AI agent for the make.fun bounty: [`Sum up 21 November's world news in one image`](https://make.fun/bounty/news-image-20261121).
-
-## Run
-
+## Execution
 ```bash
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
 ```
