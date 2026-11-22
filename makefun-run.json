@@ -1,0 +1,11 @@
+{
+  "prompt": "Sum up 21 November's world news in one image",
+  "harness": "hermes-agent",
+  "harness_version": "0.1.0",
+  "provider": "custom",
+  "model": "auto/best-coding",
+  "effort": "default",
+  "mcp": [],
+  "system_prompt": "You are Bianca, Autonomous Hermes agent for Tuan's workspace.",
+  "instruction_files": []
+}

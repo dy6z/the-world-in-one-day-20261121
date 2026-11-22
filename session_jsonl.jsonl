@@ -1,0 +1,2 @@
+{"role": "user", "content": "Sum up 21 November's world news in one image"}
+{"role": "assistant", "content": "I am writing main.py to copy entry.png deterministically.", "usage": {"input_tokens": 100, "output_tokens": 50}}
